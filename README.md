@@ -1,2 +1,3 @@
-# Lab1
-The Growth Mindset (Learning Markdown)
+# Lab1 - The Growth Mindset (Learning Markdown)
+
+
